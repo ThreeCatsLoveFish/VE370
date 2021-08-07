@@ -1,12 +1,13 @@
 # VE370 Project
 
-- Course: VE370
-- Author: Zhimin Sun
-- Language: RISC-V & Verilog
+![Course](https://img.shields.io/badge/Course-VE370-orange.svg)
+![Author](https://img.shields.io/badge/Author-ZhiminSun-orange.svg)
+![LFS](https://img.shields.io/badge/LFS-Enabled-green.svg)
 
 ### Description
 
 #### Assembly
+![Language](https://img.shields.io/badge/Language-RISCV-blue.svg)
 
 Key points:
 1. Stack usage
@@ -17,12 +18,14 @@ Key points:
 4. System call
 
 #### Pipeline
+![Language](https://img.shields.io/badge/Language-Verilog-blue.svg)
 
 Key points:
 1. Hard to debug
 2. Connect lines carefully!
 
 #### Memory
+![Language](https://img.shields.io/badge/Language-Verilog-blue.svg)
 
 Key points:
 1. Calculate the block size
